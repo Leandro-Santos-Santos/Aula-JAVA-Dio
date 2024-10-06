@@ -1,3 +1,4 @@
+package edu.leandro.primeirasemana;
 public class BoletimEstudante {
     
     public static void main(String[] args){
